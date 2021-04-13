@@ -11,7 +11,7 @@ public class NewBehaviourScript : MonoBehaviour
     }
 
     //Domas king short peepee
-
+    //Pauliaus irgi mazi kiausiniai
 
     // Update is called once per frame
     void Update()
