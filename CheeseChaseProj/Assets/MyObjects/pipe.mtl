@@ -1,0 +1,80 @@
+# Blender MTL File: 'pipe.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd stretching-spring-metal-boxe-mbr2.jpg
+
+newmtl Mechanizmas
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Pelek_Medis
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Suris
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.486897 0.235933 0.025658
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Suverzimas
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.200001 Blend\\rusty_metal_02_nor_2k.jpg
+map_Ks Blend\\rusty_metal_02_spec_2k.jpg
+map_Ns Blend\\rusty_metal_02_rough_2k.jpg
+
+newmtl Vamzdis
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 1.200001 Blend\\rusty_metal_02_nor_2k.jpg
+map_Ks Blend\\rusty_metal_02_spec_2k.jpg
+map_Ns Blend\\rusty_metal_02_rough_2k.jpg
+
+newmtl Varztas
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.019023 0.004393
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Blend\\nutmetal.png
